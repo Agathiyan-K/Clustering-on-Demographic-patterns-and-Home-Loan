@@ -1,0 +1,12 @@
+In the Dataset.zip folder, Washington_State_HDMA-2016 - Copy - Copy is used for clustering
+
+Download the dataset, and upload in your notebook
+
+-Download the IPNB file from the below link and upload the same in the notebook
+-After uploading the dataset, run the python notebook
+
+For further reference, refer Project_1_K_Means_Clustering pdf
+
+
+Drive link for the IPNB and Dataset
+https://drive.google.com/drive/folders/1e4QBtU297cOZtSbsJ3TjkSdfNFftR13O?usp=sharing
